@@ -1,0 +1,34 @@
+{
+    "Read_more": "Read More",
+    "in": "in",
+    "All_rights_reserved": "All rights reserved",
+    "Language": "Language",
+    "home": {
+        "Home": "Home",
+        "Welcome": "Welcome",
+        "Welcome_text": "We specialize in providing highly efficient and secure staking for the SOL cryptocurrency.",       
+        "Explore_more": "Explore More"
+    },
+    "service": {
+        "Services": "Services",
+        "Services_slogan": "Buy, Sell And Exchange Cryptocurrency",
+        "Currency_Wallet": "Currency Wallet",
+        "Currency_Wallet_text": "is a software program or app that allows users to store, manage, and make transactions with various cryptocurrencies.",
+        "Currency_Transaction": "Currency Transaction",
+        "Currency_Transaction_text": "typically involving a transfer of funds between two parties.",
+        "Bitcoin_Investment": "Bitcoin Investment",
+        "Bitcoin_Investment_text": "Investors can buy and sell Bitcoin through online exchanges, brokers, or peer-to-peer transactions. ",
+        "Currency_Exchange": "Currency Exchange",
+        "Currency_Exchange_text": "Currency exchange involves the buying and selling of currencies at current or fixed rates.",
+        "Bitcoin_Escrow": "Bitcoin Escrow",
+        "Bitcoin_Escrow_text": "service that holds and manages cryptocurrency transactions on behalf of the buyer and seller until the terms of the transaction are met.",
+        "Token_Sale": "Token Sale",
+        "Token_Sale_text": "is a fundraising mechanism where a company creates and sells its own digital tokens to investors in exchange for cryptocurrencies or fiat currencies."
+    },
+    "about": {
+        "About": "About"
+    },
+    "feedback": {
+        "Feedback": "Feedback"
+    }
+}
