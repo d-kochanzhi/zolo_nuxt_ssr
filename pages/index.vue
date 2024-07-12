@@ -17,6 +17,7 @@
           </a>
         </div>
         <div class="col-lg-6 animated fadeIn">
+          
           <NuxtImg loading="lazy"
             class="img-fluid animated pulse infinite"
             style="animation-duration: 3s"

@@ -1,7 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-
+  nitro: {
+    preset: 'node-server'
+  },
   components: [
     {
       path: '~/components',
@@ -25,5 +27,6 @@ export default defineNuxtConfig({
     "~/assets/style.css"
   ],
 
+ 
   compatibilityDate: "2024-07-08",
 })

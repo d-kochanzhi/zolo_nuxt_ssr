@@ -7,13 +7,17 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare"    
   },
   "dependencies": {
-    "@nuxtjs/i18n": "^8.3.1", 
+    "@nuxtjs/i18n": "^8.3.1",
+    "color": "^4.2.3",
+    "color-name": "^2.0.0",
     "nuxt": "^3.12.2",
+    "sharp": "^0.33.4",
     "usebootstrap": "^3.5.8",
-    "vue": "latest"
+    "vue": "latest",
+    "@iconify/vue": "^4.1.2"
   }
   
 }
